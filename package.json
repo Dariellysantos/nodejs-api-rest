@@ -1,0 +1,24 @@
+{
+  "name": "proeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Dariellysantos/nodejs-api-rest.git"
+  },
+  "author": "darielly santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dariellysantos/nodejs-api-rest/issues"
+  },
+  "homepage": "https://github.com/Dariellysantos/nodejs-api-rest#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
