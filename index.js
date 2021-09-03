@@ -1,9 +1,7 @@
-const express = require("express");
+const customEpress = require("./config/customExpress");
 
-const app = express();
+const app = customEpress();
+
 // acessar rota _-> dar retorno
 app.listen(3000, () => console.log(" Servidor rodando na porta 3000"));
 //(req))recebendo (res) mandando
-app.get("/atendimentos", (req, res) =>
-  res.send("você está na rota de atendimentos e está realizando um GET")
-);
