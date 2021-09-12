@@ -1,61 +1,45 @@
 <h1 align="center">
   <br>
- <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/000000/external-computer-device-and-development-flatart-icons-lineal-color-flatarticons-1.png" alt="Front-End Checklist" width="170">
+ <img src="https://img.icons8.com/nolan/64/api.png"alt="Front-End Checklist" width="170">
   <br>
     <br>
-        Semana 5
+        API Rest
   <br>
 </h1>
-<h2 align="center">
-  <p align="center">{Profa} Tassi Bomfim <p>
-</h2>
 
-# Revisão e Projeto Prático
+
+# Projeto guiado Alura
 
 
 
 
 ---
 
-## Revisão
+## Criação de uma Agenda Petshop
 
-Estamos na quinta semana, aprendemos muitas coisas novas até aqui (saudades mana Keyla), por esse motivo vamos parar e respirar - Vocês já perceberam o tanto de coisas novas que aprenderam até aqui?! Vamos rever e reforçar o conteúdo de Javascrit e ES6.
+Criei uma Api rest do zero
 
-Vamos revisar:
+Ultilizei:
 
-1. `Variáveis`
-2. `String X Template string`
-3. `Function X Arrow function`
-4. `Função Callbac`
-5. `Conditional if...else X Ternary operator`
-6. `Objetos`
-7. `Classes`
-8. `Arrays`
-9. `Métodos de iteração`
+1. `Node Js`
+2. `Express`
+3. `MySQL`
+4. `Conexãoes com bases de Dados`
+5. `Validação prévia`
+6. `Thunder Client`
+7. `GET`
+8. `POST`
+9. `PATCH`
+10. `DELETE`
 
 ---
 
-## Projeto
-
-Trago uma super proposta manas. 
-
-Vamos criar nosso primeiro projeto já pensando em algo real.  Algo que utilizamos muito no nosso dia a dia.
-
-E aqui pra nós, esse projeto é um tema pedido em etapas técnicas nas seleções de algumas empresas. 
 
 
-> Vamos criar um sistema que armazena informações de livros para que seja possível gerenciar:
-  - os livros que já lemos e os livros que estão na nossa listinha de desejos
- 
-
-
-.
-
-.
 
  
 
-<img src="./Img/metodos.gif" />
+<img src="https://img.icons8.com/nolan/64/backend-development.png"/>
 
 
 
@@ -64,20 +48,11 @@ E aqui pra nós, esse projeto é um tema pedido em etapas técnicas nas seleçõ
 
 
 
-# Tenho certeza que vocês vão arrasar! 
-
-## Dicas: 
-
-- Tenham calma, vocês já possuem todos os conhecimentos necessários para realizar o projeto.
-- Não queira ver o fluxo todo de imediato! Um passo de cada vez, primeiro resolve um ponto e depois passe para o passo seguinte.
-- Não existe apenas uma resposta certa.
-- Se esqueceu de algum metódo ou o que ele realmente faz? Consulte o google, veja exemplos e leia a documentação.
-- Leia o erro que está dando no seu terminal ou na propria linha de comando 
-- Juntem-se para trocar figurinhas.
+# FINALIZADO! 
 
 
 
-##  E contem comigo! 
+
+ 
   Onde vocês me encontram:
-  - [Linkedin](https://www.linkedin.com/in/tassilabomfim/)
-  - [Instagram](https://www.instagram.com/tassilabomfim/)
+  - [Linkedin](https://www.linkedin.com/in/darielly-santos-2bab3b6b/)
